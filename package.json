@@ -2,7 +2,7 @@
   "name": "chirags-application-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chirag631.github.io/react-gh-pages",
+  "homepage": "https://chirag631.github.io/chirag-web-app",
   "dependencies": {
     "@tailwindcss/forms": "^0.5.7",
     "@testing-library/jest-dom": "^5.15.1",

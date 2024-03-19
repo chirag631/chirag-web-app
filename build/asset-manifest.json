@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.702fd1ff.css",
-    "main.js": "/react-gh-pages/static/js/main.f7169f9e.js",
-    "static/media/InterMedium.ttf": "/react-gh-pages/static/media/InterMedium.3f7acfe50aad7ad68548.ttf",
-    "static/media/InterRegular.ttf": "/react-gh-pages/static/media/InterRegular.9ca9ba81e9dcaa12b3a1.ttf",
-    "index.html": "/react-gh-pages/index.html",
-    "main.702fd1ff.css.map": "/react-gh-pages/static/css/main.702fd1ff.css.map",
-    "main.f7169f9e.js.map": "/react-gh-pages/static/js/main.f7169f9e.js.map"
+    "main.css": "/chirag-web-app/static/css/main.9fd61a41.css",
+    "main.js": "/chirag-web-app/static/js/main.f7169f9e.js",
+    "static/media/InterMedium.ttf": "/chirag-web-app/static/media/InterMedium.3f7acfe50aad7ad68548.ttf",
+    "static/media/InterRegular.ttf": "/chirag-web-app/static/media/InterRegular.9ca9ba81e9dcaa12b3a1.ttf",
+    "index.html": "/chirag-web-app/index.html",
+    "main.9fd61a41.css.map": "/chirag-web-app/static/css/main.9fd61a41.css.map",
+    "main.f7169f9e.js.map": "/chirag-web-app/static/js/main.f7169f9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.702fd1ff.css",
+    "static/css/main.9fd61a41.css",
     "static/js/main.f7169f9e.js"
   ]
 }
